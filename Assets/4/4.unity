@@ -313,6 +313,10 @@ Prefab:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 67ae17526f4fe4bc382704eb3f1f3043, type: 2}
+    - target: {fileID: 100002, guid: 00ee3ddb940d2468aaaf6e81a1912468, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 00ee3ddb940d2468aaaf6e81a1912468, type: 3}
   m_IsPrefabParent: 0
@@ -370,6 +374,10 @@ Prefab:
     - target: {fileID: 100000, guid: 00ee3ddb940d2468aaaf6e81a1912468, type: 3}
       propertyPath: m_Name
       value: bunny (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 00ee3ddb940d2468aaaf6e81a1912468, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 00ee3ddb940d2468aaaf6e81a1912468, type: 3}
